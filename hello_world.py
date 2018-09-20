@@ -6,5 +6,7 @@ yy = int (input("Enter gallons of gas used: "))
 
 zz = xx/yy
 
+abcd = zz * 10
 
-print ("Miles per gallons times are:", zz)
+
+print ("Miles per gallons times 10 are:", zz)
