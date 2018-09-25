@@ -11,6 +11,6 @@ zz = xx/yy
 
 abcd = zz * 10
 
-#This Comment indicates that the files has been modified. If you see this comment in your pc, that means you have successfully pulled the file.
+#I am creating Merge Conflict on purpose.
 
 print ("Miles per gallons times 10 are:", zz)
