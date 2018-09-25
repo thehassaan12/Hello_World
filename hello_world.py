@@ -8,5 +8,6 @@ zz = xx/yy
 
 abcd = zz * 10
 
+#This Comment indicates that the files has been modified. If you see this comment in your pc, that means you have successfully pulled the file.
 
 print ("Miles per gallons times 10 are:", zz)
