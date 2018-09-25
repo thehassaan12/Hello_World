@@ -13,4 +13,4 @@ abcd = zz * 10
 
 #I am creating Merge Conflict on purpose.
 
-print ("Miles per gallons times 10 are:", zz)
+print ("Miles per gallons times 10 are:", xx, yy)
