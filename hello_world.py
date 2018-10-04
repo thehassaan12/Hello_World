@@ -11,4 +11,4 @@ zz = xx/yy
 
 abcd = zz * 10
 
-#If you see this, this means you have pulled the latest version of file. Then create branch and push it. Then merge brand and then delete the branch.
+#If you are seeing this, this means I have created a branch and this is just a branch. I have not merged it with the master repo yet.
