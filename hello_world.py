@@ -11,6 +11,4 @@ zz = xx/yy
 
 abcd = zz * 10
 
-#I am creating Merge Conflict on purpose.
-
-#Please pull this version and update this line with the new one...
+#If you see this, this means you have pulled the latest version of file. Then create branch and push it. Then merge brand and then delete the branch.
