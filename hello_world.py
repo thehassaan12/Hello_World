@@ -11,4 +11,4 @@ zz = xx/yy
 
 abcd = zz * 10
 
-#If you are seeing this, this means I have created a branch and this is just a branch. I have not merged it with the master repo yet.
+#If you are seeing this, this means I have merged the branch with the master one and deleted the branch.
